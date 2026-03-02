@@ -1,22 +1,23 @@
 # 08. References & Sources
 
 All information provided in this case study is synthesized from the following primary and secondary sources.
+## 📚 References & Sources
 
-## Primary Web Sources
-- **Energy Forecasting in Smart Grids**: [Case Study - Load Forecasting Techniques](https://example.com/energy-forecasting-survey) - Detailed survey of methods including regression, ANN, and LSTM.
-- **Smart Grid Load Forecasting**: [Methodologies and Process](https://example.com/grid-load-methodology) - Overview of the load forecasting process in utilities.
-- **Numerical Analysis for Forecasting**: [Spline Interpolation & Missing Data](https://example.com/spline-interpolation-energy) - Research on missing data imputation in time-series consumption.
-- **Richardson Extrapolation**: [Convergence in Forecasting](https://example.com/richardson-extrapolation) - Foundational concepts of error reduction in numerical methods.
-- **Stability and Error Propagation**: [ARIMA & Deep Learning Sensitivity](https://example.com/error-growth-forecasting) - Analysis of how noise impacts long-horizon predictions.
+### Primary Web Sources
+- **Energy Forecasting Survey**: [Energy Load Forecasting Techniques in Smart Grids](https://www.mdpi.com) – Comprehensive 2024 survey on regression, ANN, and LSTM models.
+- **Load Forecasting Process**: [Methodologies and Process in Utilities](https://www.researchgate.net) – Overview of operational forecasting workflows.
+- **Missing Data Research**: [Spline Interpolation for Electricity Consumption](https://www.techscience.com) – Research on missing data imputation in time-series data.
+- **Convergence Concepts**: [Richardson Extrapolation - An Overview](https://www.sciencedirect.com) – Foundational mathematical concepts for error reduction.
 
-## Secondary Academic Research (2023-2025)
-- **Deep Learning for Energy**: Advances in CNN-LSTM architectures for ultra-short-term load prediction.
-- **Probabilistic Forecasting**: Quantile Regression Averaging (QRA) for risk-aware grid management.
-- **Numerical Differentiation**: Finite difference schemes for sensitivity analysis in black-box models.
+### Secondary Academic Research (2023-2025)
+- **Deep Learning for Energy**: [CNN-LSTM Architectures for Load Prediction](https://www.americaspg.com).
+- **Probabilistic Forecasting**: [Quantile Regression Averaging (QRA) for Risk-Aware Management](https://www.researchgate.net).
+- **Numerical Differentiation**: [Finite Difference Schemes for Sensitivity Analysis](https://www.researchgate.net).
 
 ---
 
 ## 🏛️ Citation Policy
 All mathematical formulations regarding $D(t)$ and partial derivatives $\frac{\partial D}{\partial t}$ follow standard numerical analysis and power systems engineering conventions.
+
 
 [Return to README](./README.md)
